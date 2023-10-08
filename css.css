@@ -13,10 +13,10 @@
 }
 
 body {
-  position:relative;
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(to top right, rgb(96,96,240) , rgb(16,195,255));
+  position: relative;
 }
 
 
@@ -157,6 +157,7 @@ header .getstarted:hover {
   color: white;
   text-decoration: none;
 }
+
 
 /* clipage */
 .clipped {
